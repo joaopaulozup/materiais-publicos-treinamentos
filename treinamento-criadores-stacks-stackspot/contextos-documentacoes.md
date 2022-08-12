@@ -17,6 +17,6 @@ Existem diversas documentações muito completas no mercado, citando algumas:
 
 Um possível problema que existe para alguém que quer mergulhar em qualquer uma delas é que, além de estudar o que é necessário para começar a construir algo, tem também o fato de precisar pegar esse conhecimento e materializar em código. 
 
-Quase todas elas exigem passos necessários para que a pessoa que está querendo desenvolver algo consiga de fato o que está disponível na tecnologia. 
+Quase todas elas exigem passos necessários para que a pessoa que está querendo desenvolver algo consiga de fato o que está disponível na tecnologia.
 
 
